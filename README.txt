@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/mnafricano/pen/IGoDe.
+NAF website
 
- A set of social buttons made with a nice minimal feel made using pure CSS.
+Website for internal workings with admin privledges and report generation using PHP and Bootstrap
